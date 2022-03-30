@@ -1,0 +1,2 @@
+[C[C[C[C[D[D[D[D#!/bin/bash
+ln -s /bin/ls __ls__
